@@ -1,0 +1,19 @@
+{
+  "name": "quick-start-template",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --out-dir ./build --public-url ./",
+    "start": "http-server ./build -o"
+  },
+  "keywords": [],
+  "author": "halo <haloislet@gmail.com> (https://github.com/haloislet)",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "parcel-bundler": "^1.5.1"
+  }
+}
