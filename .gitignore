@@ -3,5 +3,8 @@ node_modules/
 build/
 dist/
 
+# IDE
+.idea/
+
 # Mac OS
 *.DS_Store
