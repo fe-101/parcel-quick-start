@@ -13,6 +13,8 @@
   "author": "halo <haloislet@gmail.com> (https://github.com/haloislet)",
   "license": "MIT",
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
     "http-server": "^0.11.1",
     "parcel-bundler": "^1.5.1"
   }

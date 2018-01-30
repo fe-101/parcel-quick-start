@@ -1,3 +1,4 @@
 export default () => {
-    document.write('parcel quick start')
+    let str = 'parcel quick start'
+    document.write(str)
  };
