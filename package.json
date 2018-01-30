@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel index.html",
-    "build": "parcel build index.html --out-dir ./build --public-url ./",
-    "start": "http-server ./build -o"
+    "dev": "parcel index.html --out-dir ./temp",
+    "build": "parcel build index.html --public-url ./",
+    "start": "http-server ./dist -o"
   },
   "keywords": [],
   "author": "halo <haloislet@gmail.com> (https://github.com/haloislet)",
