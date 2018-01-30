@@ -1,25 +1,12 @@
-parcel 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.svg) 
-=== 
-
-
-> Parcel 是 Web 应用打包工具，适用于经验不同的开发者。它利用多核处理提供了极快的速度，并且不需要任何配置。
->—— [parcel.io](https://www.parceljs.io/) 
-
-
-<!-- TOC -->
-
-- [使用](#使用)
-- [parcel 特性](#parcel-特性)
-- [许可证](#许可证)
-
-<!-- /TOC -->
-
+vue.js template ![](https://img.shields.io/github/license/mashape/apistatus.svg)
+================================================================================
+> vue.js 项目模板,使用了 parcel 作为打包工具
 <br>
 
 ## 使用
 下载安装
 ```
-$ git clone git@github.com:haloislet/parcel-quick-start.git 
+$ git clone -b vue git@github.com:haloislet/parcel-quick-start.git
 $ cd parcel-quick-start
 $ npm install
 ```
@@ -39,11 +26,16 @@ $ npm run start
 
 <br>
 
-## parcel 特性
-- html，css，javsctipt 热更新
-- html，css 压缩
-- javascipt 压缩混淆
-- ✨ source map （2018.1.23 新增）
+## 说明
+使用了以下包
+- vue
+- vuex
+- vue-router
+- axios
+- postcss
+- babel
+- http-server
+
 
 <br>
 
