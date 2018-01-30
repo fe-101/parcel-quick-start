@@ -10,6 +10,7 @@ parcel 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.
 
 - [使用](#使用)
 - [parcel 特性](#parcel-特性)
+- [分支](#分支)
 - [许可证](#许可证)
 
 <!-- /TOC -->
@@ -44,6 +45,11 @@ $ npm run start
 - html，css 压缩
 - javascipt 压缩混淆
 - ✨ source map （2018.1.23 新增）
+
+<br>
+
+## 分支
+[vue.js template](https://github.com/haloislet/parcel-quick-start/tree/vue)
 
 <br>
 
