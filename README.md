@@ -26,19 +26,6 @@ $ npm run start
 
 <br>
 
-## 说明
-使用了以下包
-- vue
-- vuex
-- vue-router
-- axios
-- postcss
-- babel
-- http-server
-
-
-<br>
-
 ## 许可证
 
 The MIT License (MIT)
