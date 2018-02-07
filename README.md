@@ -1,4 +1,4 @@
-vue.js template ![](https://img.shields.io/github/license/mashape/apistatus.svg)
+vue.js template ![](https://img.shields.io/npm/l/whistle.svg?style=flat-square)
 ================================================================================
 > vue.js 项目模板,使用了 parcel 作为打包工具
 <br>
