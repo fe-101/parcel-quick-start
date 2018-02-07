@@ -1,4 +1,4 @@
-parcel 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.svg) 
+parcel 快速入门 ![](https://img.shields.io/npm/l/whistle.svg?style=flat-square) 
 === 
 
 
